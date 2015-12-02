@@ -1,6 +1,6 @@
 {
-  "name": "pana-life",
-  "version": "0.0.0",
+  "name":"express_template",
+  "version": "0.0.1",
   "private": true,
   "scripts": {
     "start": "node ./bin/www"
