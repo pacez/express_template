@@ -1,9 +1,9 @@
 {
-  "title":"猿区-程序员众帮社区",
-  "projectName":"猿区",
+  "title":"标题",
+  "projectName":"项目名",
   "menus": [
-    {"name":"help","label":"众帮项目"},
-    {"name":"group","label":"圈子"},
-    {"name":"blog","label":"博客"}
+    {"name":"menu1","label":"菜单1"},
+    {"name":"menu2","label":"菜单2"},
+    {"name":"menu3","label":"菜单3"}
   ]
 }
